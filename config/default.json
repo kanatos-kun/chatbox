@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/chatBox",
+  "jwtSecret": "IsThatTheSeIxxicFBei456zR"
+}
